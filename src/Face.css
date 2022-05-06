@@ -1,0 +1,8 @@
+.image-container{
+    height:317px;
+}
+
+.face-img{
+    width:100%;
+    object-fit: cover;
+}
